@@ -12,7 +12,7 @@ Because people might look for me under this username. So now this is a pointer t
 
 ## I still don't understand
 
-    User* me = [&danzek](https://github.com/danzek);
+    User* me = &danzek;
 
 ### Oh I get it now! But I don't appreciate your asterisk placement in that code example
 
