@@ -1,6 +1,6 @@
 # `whoami`
 
-This account is a pointer to [my danzek account, go there](https://github.com/danzek) instead of here
+This account is a pointer to [my danzek account, go there](https://github.com/danzek) instead of here.
 
 ## Why?
 
