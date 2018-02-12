@@ -1,4 +1,4 @@
-# `whoami`
+# `whoami`  [![forthebadge](http://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)
 
 This account is a pointer to [my danzek account, go there](https://github.com/danzek) instead of here.
 
