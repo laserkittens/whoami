@@ -4,11 +4,11 @@ This account is a pointer to [my danzek account, go there](https://github.com/da
 
 ## Why?
 
-Because I had [that account and username](https://github.com/danzek) before I started using the moniker "4n68r".
+Because I wanted to make a GitHub Pages site with the laserkittens subdomain.
 
-## But why would you make a second account?
+## But why would you make a *third* account?
 
-Because people might look for me under this username. So now this is a pointer to [my main account](https://github.com/danzek).
+Because I can.
 
 ## I still don't understand
 
